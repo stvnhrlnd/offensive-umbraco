@@ -1,7 +1,8 @@
 # Offensive Umbraco: Notes of a Friendly Adversary
 
-This repository contains the source code for my slides from my Codegarden 2021 talk.
+An introduction to offensive security, the adversarial mindset, and how an attacker might leverage the Umbraco CMS to get a foothold on the underlying web server and deploy a PoshC2 implant.
 
-The slides can be viewed here: [https://stvnhrlnd.github.io/offensive-umbraco](https://stvnhrlnd.github.io/offensive-umbraco)
+Delivered in June 2021 at the Umbraco Codegarden conference.
 
-The talk was also recorded: [https://youtu.be/l2HhURPOMi0](https://youtu.be/l2HhURPOMi0)
+- Recording: [https://youtu.be/l2HhURPOMi0](https://youtu.be/l2HhURPOMi0)
+- Slides: [https://stvnhrlnd.github.io/offensive-umbraco](https://stvnhrlnd.github.io/offensive-umbraco)
